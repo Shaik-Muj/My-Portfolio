@@ -1,0 +1,18 @@
+This directory will store certificate images for:
+
+1. Generative AI and LLMs: Architecture and Data Preparation — IBM
+2. Introduction to AWS SDK for Python — CodeSignal
+3. Machine Learning with Python — IBM
+4. Mastering Amazon S3 with AWS SDK for Python — CodeSignal
+5. React Basics — Meta
+6. Cloud Computing Fundamentals — IBM
+7. User Experience Design Fundamentals — IBM
+
+Please add actual certificate images here with filenames:
+- ibm-generative-ai.jpg
+- codesignal-aws-sdk.jpg
+- ibm-machine-learning.jpg
+- codesignal-amazon-s3.jpg
+- meta-react-basics.jpg
+- ibm-cloud-computing.jpg
+- ibm-ux-design.jpg
